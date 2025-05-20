@@ -1,5 +1,29 @@
-# 💫 About Me:
+#  About Me:
 👨‍💻 About Me  <br><br>Hi there! 👋 Welcome to my GitHub! Here's a quick snapshot of who I am:  <br><br>🚀 **Name:** Zouhair Khalid   <br>🎓 **Education:** 2nd-year engineering student at ENSEA, specializing in Robotics | AI | Computer Vision .  <br>💡 **Passion:** Building innovative robotics projects, exploring artificial intelligence, and crafting efficient algorithms.  <br>📚 **Interests:**  <br>- 🤖 Robotics and Automation  <br>- 📡 IoT and Embedded Systems  <br>- 🧠 Machine Learning & AI  <br>- 🛠️ Open Source Hardware & Software  <br><br>⚡ **Fun Fact:** I built my first robot in middle school! 🛠️ It was a line follower, and I've been hooked on robotics ever since.  <br><br>💬 **Reach me for:**  <br>- 🌟 Collaboration on robotics projects  <br>- 🔍 Internship or career opportunities in AI & robotics  <br>- 💡 Brainstorming innovative ideas  <br><br>📫 **Connect with me:**  <br>[LinkedIn](https://www.linkedin.com/in/khalid-zouhair/) | [Email](mailto:khalid.zouhair@ensea.fr)  <br><br>🌟 **Favorite Quote:**  <br>*"The best way to predict the future is to invent it."* – Alan Kay
+
+## 🧰 Internships / Work
+- [Internship_Ingeniarius_maze](https://github.com/mrU7711/INTERNSHIP_ingeniarius_maze)
+- [Internship_Ingeniarius_maze2](https://github.com/mrU7711/INTERNSHIP_ingeniarius_maze2)
+- [Internship_Ingeniarius_task0](https://github.com/mrU7711/INTERNSHIP_ingeniarius_Task0)
+- [Internship_Ingeniarius_task1](https://github.com/mrU7711/INTERNSHIP_ingeniarius_Task1) 
+- [Internship_Ingeniarius_Firmware & drivers](https://github.com/mrU7711/INTERNSHIP_ingeniarius_Firmware-drivers)
+
+  
+## 🎓 School Projects (ENSEA)
+- [CFR_2025](https://github.com/mrU7711/CFR_2025)
+- [ENSEA_Practical_1](https://github.com/mrU7711/ENSEA_Practical_1)
+- [ENSEA_Practical_2](https://github.com/mrU7711/ENSEA_Practical_2)
+- [ENSEA_Hacka](https://github.com/mrU7711/ENSEA_Hacka_25_final_version)
+
+
+
+## 🧪 Projects
+- [CFR_ARES](https://github.com/AresEnsea/2425_Projet2A_AresCFR)
+- [Drones_Opt](https://github.com/Lynxlegrand/EnseaDronesOption)
+- [Game_Dungeon_Crawler](https://github.com/mrU7711/PROJECT_Dungeon-Crawler)
+- [Project_MadKudu-AI-agent](https://github.com/mrU7711/PROJECT_MadKudu-AI-Agent)
+- [Project_Chatbot](https://github.com/mrU7711/PROJECT_ChatBot)
+- [Project_Radar](https://github.com/mrU7711/PROJECT_Radar)
 
 
 # 💻 Tech Stack:
